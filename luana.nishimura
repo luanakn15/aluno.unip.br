@@ -1,1 +1,16 @@
-https://sites.google.com/d/1ydQyCW9AGJ0pucc8aMQRwHs7xhCbMWHh/p/1DO8BfDRJUo0iVxiRFvj7kV28nPqbjuwj/edit
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Carteirinha Digital</title>
+  <meta charset="UTF-8">
+</head>
+<body style="font-family: Arial; text-align:center; padding:40px;">
+  <h1>Carteirinha Digital</h1>
+  <img src="https://via.placeholder.com/150" alt="Foto do aluno"><br><br>
+  <p><strong>Nome:</strong> Seu Nome</p>
+  <p><strong>RA:</strong> 123456</p>
+  <p><strong>Curso:</strong> Administração</p>
+  <p><strong>Validade:</strong> 12/2026</p>
+  <p style="color:green;"><strong>Status: Ativo</strong></p>
+</body>
+</html>
